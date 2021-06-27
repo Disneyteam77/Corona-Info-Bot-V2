@@ -21,7 +21,7 @@ Developer👨‍💻
 
 Credits 
 - [NS](https://t.me/The_proGrammerr) For Teaching Me Coding🥰
-- [Ajhubiju](https://t.me/Yeageristbotsdev) For Teaching Me Python☺
+- [Achubiju](https://t.me/Yeageristbotsdev) For Teaching Me Python☺
 - [Me](https://t.me/doreamonfans1) For The Source Code
 ---
 Special Thank To them👆
