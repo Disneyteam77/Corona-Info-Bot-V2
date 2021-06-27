@@ -81,4 +81,4 @@ Made by ❤ by [DoreamonFans](https://telegram.me/doreamonfans2)
             quote=True
         )
 
-Doreamonfans.run()
+FayasNoushad.run()
